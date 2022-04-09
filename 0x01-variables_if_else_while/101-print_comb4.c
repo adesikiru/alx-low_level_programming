@@ -11,7 +11,7 @@ int main(void)
 	for (i = 0; i < 1000; i++)
 	{
 		b = i / 100; /* hundreds */
-		c = (i / 10 )% 10 ; /* tens */
+		c = (i / 10) % 10 ; /* tens */
 		d = i % 10; /* singles */
 
 		if (b < c && c < d)
