@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * alhabet - entry point
+ * print_alphabet - entry point
  *
- * Description: a program for alphabet game that prints alphabet
+ * Description: game program that prints alphabets
  *
  * Return: 0 (Success)
  */
@@ -12,6 +12,7 @@
 void print_alphabet(void)
 {
 	int ch;
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		_putchar(ch);
