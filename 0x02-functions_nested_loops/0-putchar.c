@@ -1,10 +1,11 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - entry point
- * Return : 0
+ * A program that prints _putchar
+ * Returns: 0
  */
-
 int main(void)
 {
 	_putchar('_');
@@ -18,5 +19,4 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
-
 }
