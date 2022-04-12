@@ -4,7 +4,8 @@
 /**
  * print_alphabet_x10 - Entry Point
  *
- * Description: function that prints 10 times the alphabet, in lowercase, followed by a new line
+ * Description: function that prints 10 times the alphabet,
+ * in lowercase, followed by a new line
  *
  * Return: 0 (Success)
  */
