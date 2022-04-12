@@ -3,8 +3,10 @@
 
 /**
  * main - entry point
- * A program that prints _putchar
- * Returns: 0
+ *
+ * Description: A program that prints _putchar
+ *
+ * Return: 0 (Success)
  */
 int main(void)
 {
