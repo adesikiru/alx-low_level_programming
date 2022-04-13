@@ -8,7 +8,7 @@
  * integers and returns the result.
  *
  * @a: print int a
- * 
+ *
  * @b: print int b
  *
  * Return: Always 0.
