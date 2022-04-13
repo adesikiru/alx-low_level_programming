@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- *
  * main - Test function for positive or negative
- *
+ * Description:  a test for a
+ * postitive_or_negative()
  * Return: 0
- *
  */
 
 int main(void)
