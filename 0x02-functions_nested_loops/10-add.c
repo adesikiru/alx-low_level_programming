@@ -2,19 +2,18 @@
 #include <stdio.h>
 
 /**
- * add - Entry Point
+ * main - Entry Point
  *
  * Description: a function that adds two
  * integers and returns the result.
  *
- * @a: print int a
- *
- * @b: print int b
- *
  * Return: Always 0.
  */
 
-int add(int a, int b)
+int main(void)
 {
-	return (a + b);
+	int n;
+
+	n = add(89, 9);
+	return (0);
 }
