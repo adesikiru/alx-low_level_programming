@@ -3,17 +3,15 @@
 
 /**
  * main - Entry Point
- *
  * Description: a function that adds two
  * integers and returns the result.
- *
  * Return: Always 0.
  */
 
 int main(void)
 {
-	int n;
+	int n, a, b;
 
-	n = add(89, 9);
-	return (0);
+	n = add(a, b);
+	return (n);
 }
