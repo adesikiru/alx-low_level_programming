@@ -2,16 +2,13 @@
 #include <stdio.h>
 
 /**
- * main - Entry Point
- * Description: a function that adds two
- * integers and returns the result.
+ * add - Entry Point
+ * @a: print int a
+ * @b: print int b
  * Return: Always 0.
  */
 
-int main(void)
+int add(int a, int b)
 {
-	int n, a, b;
-
-	n = add(a, b);
-	return (n);
+	return (a + b);
 }
