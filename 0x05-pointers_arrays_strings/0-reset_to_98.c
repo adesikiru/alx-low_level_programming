@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * reset_to_98 - Main Entry
- * @n: pointer
- * Return: always 0
+ * reset_to_98 - function that takes a pointer
+ * to an integer parameter
+ * @n: integer pointer
+ * Return: always 0 Success
  */
-void reset_to_98(int *n)
+void reset_to_98(int*n)
 {
 	*n = 98;
 }
