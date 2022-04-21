@@ -4,6 +4,7 @@
 /**
  * print_array - entry point
  * @a: point varialbe
+ * @n: variable
  * Return: Always 0
  */
 
