@@ -16,7 +16,7 @@ int _atoi(char *s)
 	for (i = 0; s[i] != '\0'; i++)
 	{
 		if (s[i] == '-')
-			y = y * - 1;
+			y = y * -1;
 		if (s[i] >= '0' && s[i] <= '9')
 		{
 			x = x * 10;
