@@ -18,4 +18,3 @@ char *_memset(char *s, char b, unsigned int n)
 	}
 	return (s);
 }
-chmod u+x 0-memset.c && git add --chmod=+x 0-memset.c && git commit -m 'task 00' && git push
