@@ -1,2 +1,2 @@
 project 0x08-recursion read me file
-chmod u+x 100-is_palindrome.c && git add --chmod=+x 100-is_palindrome.c && git commit -m 'task 07' && git push
+chmod u+x 101-wildcmp.c && git add --chmod=+x 101-wildcmp.c && git commit -m 'task 08' && git push
