@@ -1,3 +1,3 @@
 Readme for more malloc free
-chmod u+x 101-strtow.c && git add --chmod=+x 101-strtow.c && git commit -m 'created additional task 06 101-strtow.c' && git push
+chmod u+x 0-malloc_checked.c && git add --chmod=+x 0-malloc_checked.c && git commit -m '0x0C-more_malloc_free 0-malloc_checked.c' && git push
 git add . && git commit -m 'created readme'
