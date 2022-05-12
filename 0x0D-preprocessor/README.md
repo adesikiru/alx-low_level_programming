@@ -1,3 +1,3 @@
 Readme for more malloc free Alx 0x0D-preprocessor
-chmod u+x 1-pi.h && git add --chmod=+x 1-pi.h && git commit -m 'task 01 1-pi.h' && git push
+chmod u+x 2-main.c && git add --chmod=+x 2-main.c && git commit -m 'task 02 2-main.c' && git push
 git add . && git commit -m 'created readme'
