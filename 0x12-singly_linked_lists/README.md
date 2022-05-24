@@ -1,3 +1,3 @@
 README FOR 0x12. C - Singly linked lists
-chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'task 01 Write a function that returns number of the elements in a linked list_t list. 1-list_len.c' && git push
+chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 git add . && git commit -m 'created readme'
