@@ -1,4 +1,4 @@
 README FOR 0x14-bit_manipulation
 
-chmod u+x main.h && git add --chmod=+x main.h && git commit -m 'task 05  a function that returns the number of bits you would need to flip to get from one number to another. 5-flip_bits.c' && git push
+chmod u+x main.h && git add --chmod=+x main.h && git commit -m 'header file main.h' && git push
 git add . && git commit -m 'created readme'
