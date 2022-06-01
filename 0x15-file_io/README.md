@@ -50,5 +50,5 @@ What is a system call
   All your header files should be include guarded
   Tip: always prefer using symbolic constants (POSIX) vs numbers when it makes sense. For instance read(STDIN_FILENO, ... vs read(0,..)
 
-chmod u+x 0-read_textfile.c && git add --chmod=+x 0-read_textfile.c && git commit -m 'task 00  a function that reads a text file and prints it to the POSIX standard output.  0-read_textfile.c' && git push
+chmod u+x 1-create_file.c && git add --chmod=+x 0-read_textfile.c && git commit -m 'task 00  a function that reads a text file and prints it to the POSIX standard output.  0-read_textfile.c' && git push
 git add . && git commit -m 'created readme'
