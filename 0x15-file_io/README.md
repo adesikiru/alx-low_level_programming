@@ -50,5 +50,11 @@ What is a system call
   All your header files should be include guarded
   Tip: always prefer using symbolic constants (POSIX) vs numbers when it makes sense. For instance read(STDIN_FILENO, ... vs read(0,..)
 
-chmod u+x 100-elf_header.c && git add --chmod=+x 100-elf_header.c && git commit -m 'Advanced task 04  a program that displays the information contained in the ELF header at the start of an ELF file. 100-elf_header.c' && git push
+chmod u+x 8-concat_edges.py && git add --all && git commit -m 'task 08 Complete this source code to print object-oriented programming with Python, followed by a new line. 8-concat_edges.py' && git push
+
+cd root/alx-higher_level_programming/0x00-python-hello_world
+
+
+
 git add . && git commit -m 'created readme'
+chmod u+x 0-run
