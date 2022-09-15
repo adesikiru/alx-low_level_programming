@@ -13,7 +13,7 @@ chmod u+x 0-Makefile && git add --chmod=+x 0-Makefile && git commit -m 'Task 00 
 && git push
 
 touch 0-Makefile && git add . && git commit -m 0-Makefile
-make -f 0-Makefile
+make -f 0-Makefile && git add . && git commit -m 0-Makefile
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
