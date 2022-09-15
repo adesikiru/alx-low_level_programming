@@ -9,7 +9,7 @@ chmod u+x 0-Makefile && git add --chmod=+x 0-Makefile && git commit -m 'Advanced
 
 && git push
 
-chmod u+x 0-Makefile && git add --chmod=+x 0-Makefile && git commit -m 'Task 08 an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search. 0-Makefile'
+chmod u+x 0-Makefile && git add --chmod=+x 0-Makefile && git commit -m 'Task 00 an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search. 0-Makefile'
 && git push
 
 touch 0-Makefile && git add . && git commit -m 0-Makefile
