@@ -5,8 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Advanced Task 100 make -f Island Perimeter
-100-Makefile'
+chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Advanced Task 100 make -f 100-Makefile'
 
 && git push
 
