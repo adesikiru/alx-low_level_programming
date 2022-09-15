@@ -5,7 +5,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 5-island_perimeter.py && git add --chmod=+x 5-island_perimeter.py && git commit -m 'Advanced Task 103make -f Island Perimeter
+chmod u+x 5-island_perimeter.py && git add --chmod=+x 5-island_perimeter.py && git commit -m 'Advanced Task 103 make -f Island Perimeter
 5-island_perimeter.py'
 
 && git push
