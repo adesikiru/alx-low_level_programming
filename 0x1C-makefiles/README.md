@@ -13,7 +13,7 @@ chmod u+x 100-Makefile && git add --chmod=+x 100-Makefile && git commit -m 'Adva
 chmod u+x 5-island_perimeter.py && git add --chmod=+x 5-island_perimeter.py && git commit -m 'Task 05 make -f Island Perimeter 5-island_perimeter.py'
 && git push
 
-touch 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
+touch 5-island_perimeter.py && git add . && git commit -m 100-Makefile
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
