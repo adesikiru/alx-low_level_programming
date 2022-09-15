@@ -5,16 +5,16 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 1-Makefile && git add --chmod=+x 1-Makefile && git commit -m 'Advanced Task 103 Accessibility support 1-Makefile'
+chmod u+x 2-Makefile && git add --chmod=+x 2-Makefile && git commit -m 'Advanced Task 103 Accessibility support 2-Makefile'
 
 && git push
 
-chmod u+x 1-Makefile && git add --chmod=+x 1-Makefile && git commit -m 'Task 01 make -f 1-Makefile 1-Makefile'
+chmod u+x 2-Makefile && git add --chmod=+x 2-Makefile && git commit -m 'Task 01 make -f 2-Makefile 2-Makefile'
 && git push
 
-touch 1-Makefile && git add . && git commit -m 1-Makefile
+touch 2-Makefile && git add . && git commit -m 2-Makefile
 
-make -f 1-Makefile && git add . && git commit -m 1-Makefile
+make -f 2-Makefile && git add . && git commit -m 2-Makefile
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
 
