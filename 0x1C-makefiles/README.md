@@ -9,7 +9,7 @@ chmod u+x 3-Makefile && git add --chmod=+x 3-Makefile && git commit -m 'Advanced
 
 && git push
 
-chmod u+x 3-Makefile && git add --chmod=+x 3-Makefile && git commit -m 'Task 02 make -f 3-Makefile 3-Makefile'
+chmod u+x 3-Makefile && git add --chmod=+x 3-Makefile && git commit -m 'Task 03 make -f 3-Makefile 3-Makefile'
 && git push
 
 touch 3-Makefile && git add . && git commit -m 3-Makefile
