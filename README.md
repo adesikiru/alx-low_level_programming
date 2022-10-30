@@ -10,7 +10,8 @@ chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m
 
 chmod u+x 0-linear.c && git add --chmod=+x 0-linear.c && git commit -m 'Task 00 a function that searches for a value in an array of integers using the Linear search algorithm 0-linear.c' && git push
 
-touch 0-linear.c && git add . && git commit -m 0-linear.c
+touch 0-linear.c && git add . && git commit -m search_algos.h
+
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
