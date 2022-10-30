@@ -8,7 +8,7 @@ chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit 
 
 chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m 'Advanced Task 102 a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response. 102-catch_me.sh' && git push
 
-chmod u+x 1-binary.c && git add --chmod=+x 1-binary.c && git commit -m 'Task 01 a function that searches for a value in an array of integers using the Linear search algorithm 1-binary.c' && git push
+chmod u+x 1-binary.c && git add --chmod=+x 1-binary.c && git commit -m 'Task 01 a function that searches for a value in a sorted array of integers using the Binary search algorithm 1-binary.c' && git push
 
 touch 1-binary.c && git add . && git commit -m 1-binary.c
 
