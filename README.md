@@ -17,4 +17,4 @@ chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git com
 
 chmod u+x 6-print_hexa.py && git add --all && git commit -m 'task 06 6-print_hexa.py' && git push
 
-mkdir attack_is_the_best_defense && cd attack_is_the_best_defense && echo '# attack_is_the_best_defense' >> README.md
+mkdir 0x1E-search_algorithms && cd 0x1E-search_algorithms && echo '# 0x1E-search_algorithms' >> README.md
