@@ -4,13 +4,13 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x search_algos.h && git add --chmod=+x search_algos.h && git commit -m 'header file search_algos.h' && git push
 
-chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'Advanced task 04 a program that displays the information contained in the ELF header at the start of an ELF file. print_dlistint.c' && git push
+chmod u+x print_dlistint.c && git add --chmod=+x print_dlistint.c && git commit -m 'Advanced task 05 a program that displays the information contained in the ELF header at the start of an ELF file. print_dlistint.c' && git push
 
 chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m 'Advanced Task 102 a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response. 102-catch_me.sh' && git push
 
-chmod u+x 4-O && git add --chmod=+x 4-O && git commit -m 'Task 04 Big O #2 4-O' && git push
+chmod u+x 5-O && git add --chmod=+x 5-O && git commit -m 'Task 05 Big O #2 5-O' && git push
 
-touch 4-O && git add . && git commit -m 4-O
+touch 5-O && git add . && git commit -m 5-O
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
