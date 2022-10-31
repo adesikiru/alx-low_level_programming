@@ -10,7 +10,8 @@ chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m
 
 chmod u+x 6-O && git add --chmod=+x 6-O && git commit -m 'Task 06 Big O #4 6-O' && git push
 
-touch 6-O && git add . && git commit -m 6-O
+touch 100-jump.c && git add . && git commit -m 100-jump.c
+
 
 make -f 5-island_perimeter.py && git add . && git commit -m 5-island_perimeter.py
 
