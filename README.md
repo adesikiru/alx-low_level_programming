@@ -4,7 +4,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x search_algos.h && git add --chmod=+x search_algos.h && git commit -m 'header file search_algos.h' && git push
 
-chmod u+x 107-O && git add --chmod=+x 107-O && git commit -m 'Advanced task 107 Big O #6 107-O' && git push
+chmod u+x 107-O && git add --chmod=+x 107-O && git commit -m 'Advanced task 107 Big O #7 107-O' && git push
 
 chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m 'Advanced Task 102 a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response. 102-catch_me.sh' && git push
 
