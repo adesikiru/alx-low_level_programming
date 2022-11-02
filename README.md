@@ -4,7 +4,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x search_algos.h && git add --chmod=+x search_algos.h && git commit -m 'header file search_algos.h' && git push
 
-chmod u+x 102-interpolation.c && git add --chmod=+x 102-interpolation.c && git commit -m 'Advanced task 102 Big O #5 102-interpolation.c' && git push
+chmod u+x 102-interpolation.c && git add --chmod=+x 102-interpolation.c && git commit -m 'Advanced task 102 a function that searches for a value in a sorted array of integers using the Interpolation search algorithm 102-interpolation.c' && git push
 
 chmod u+x 102-catch_me.sh && git add --chmod=+x 102-catch_me.sh && git commit -m 'Advanced Task 102 a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response. 102-catch_me.sh' && git push
 
